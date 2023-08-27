@@ -18,23 +18,30 @@ This repository contains a portfolio webpage showcasing multiple projects. Each 
 • <iframe>: iFrame is used to Embeds another webpage within the current webpage.
   
 ## Projects
+### Left panel
+we have used iframe to provide the path to connect to pages.
+![image](https://github.com/rajakhan017/WT-2iframe/assets/135150598/8ff13a3b-f428-4759-bd79-0ed54f4fb882)
+
 
 ### Project 1 - Resume
 Description: A project displaying a resume webpage where we hve used different tags from .
-![image](https://github.com/rajakhan017/Test-frame/assets/135150598/7fa007a3-6781-4bac-9b78-549977730275)
+![image](https://github.com/rajakhan017/WT-2iframe/assets/135150598/a4baf6f7-18b8-4428-b87e-d3b3dd921414)
+
 
 
 ### Project 2 - Photo Cat App
 Description: An app displaying cat photos.
-![image](https://github.com/rajakhan017/Test-frame/assets/135150598/e71f7d42-6c02-4860-bbd6-923a81281353)
+![image](https://github.com/rajakhan017/WT-2iframe/assets/135150598/8762f8e4-fc1d-4e09-b81f-4b008e7c2a8e)
 
 ### Project 3 - Form
 Description: A project featuring a personal details form.
-![image](https://github.com/rajakhan017/Test-frame/assets/135150598/d1ad64a7-7868-4d5a-9569-e95af588c3ce)
+![image](https://github.com/rajakhan017/WT-2iframe/assets/135150598/b7b9e46a-aa0b-456a-9a7e-43323f5e8af5)
+
 
 
 ### Project 4 - Tribute Page
 Description: A tribute page dedicated to a subject.
-![image](https://github.com/rajakhan017/Test-frame/assets/135150598/7aee71a5-5bf5-40dd-839a-2353947c343a)
+![image](https://github.com/rajakhan017/WT-2iframe/assets/135150598/5fc46462-86fe-4661-8b72-1200c68b9535)
+
 ### Preview
 You can access the live preview of the webpage [here]https://rajakhan017.github.io/WT-2iframe/
